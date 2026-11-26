@@ -1,0 +1,15 @@
+package,recorded_versions,source
+AnnotationDbi,,Bioconductor
+clue,,CRAN
+data.table,1.18.4 | 1.18.6.1,CRAN
+freesurferformats,,CRAN
+GenomicSEM,0.0.5,GitHub GenomicSEM/GenomicSEM@0a63ac0ea01b61d28bd17e4a204e0fa561ce5040
+lme4,2.0-6,CRAN
+Matrix,1.6-1.1,CRAN
+org.Hs.eg.db,,Bioconductor
+processx,,CRAN
+readxl,,CRAN
+RNifti,,CRAN
+sandwich,,CRAN
+survival,3.8-11,CRAN
+xml2,1.5.1,CRAN

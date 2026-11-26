@@ -1,0 +1,16 @@
+R reference version: 4.4.2
+Recorded versions below come from the original stage-specific environments.
+Multiple versions indicate different analysis stages.
+
+data.table: 1.18.4 | 1.18.6.1
+GenomicSEM: 0.0.5
+lme4: 2.0-6
+Matrix: 1.6-1.1
+survival: 3.8-11
+xml2: 1.5.1
+
+GenomicSEM installation reference:
+GenomicSEM/GenomicSEM@0a63ac0ea01b61d28bd17e4a204e0fa561ce5040 (version 0.0.5)
+MAGMA gene analyses: version 1.10, 1000 Genomes European reference, 0-kb gene windows.
+LDSC: original bulik/ldsc Python scripts, observed-scale heritability,
+HapMap3 non-MHC merge list, MAF >= 0.01, default LD-score regression options.
